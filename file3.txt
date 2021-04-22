@@ -1,3 +1,4 @@
 learning is fun
 fun is learning new thing
 teacher is too fast
+this work for test case 3
